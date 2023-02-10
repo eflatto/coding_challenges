@@ -7,3 +7,5 @@ This repository contains my solutions to various coding challenges. The solution
 - [Fake Binary](https://github.com/eflatto/coding_challenges/blob/main/src/codingchallenges/FakeBinary.java)
 
 - [Dog years, Cat years](https://github.com/eflatto/coding_challenges/blob/main/src/codingchallenges/Dinglemouse.java)
+
+- [Remove First and Last char](https://github.com/eflatto/coding_challenges/blob/main/src/codingchallenges/RemoveChars.java)
