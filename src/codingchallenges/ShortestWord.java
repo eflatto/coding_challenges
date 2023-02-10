@@ -7,13 +7,14 @@ String will never be empty and you do not need to account for different data typ
 
 
 
-package codingchallenges;
+
 
 /*Simple, given a string of words, return the length of the 
  * shortest word(s).
 String will never be empty and you do not need to account for different data types.
  */
-```
+```java
+
 public class ShortestWord {
 	public static void main(String[] args) {
 		System.out.println(findShort("bitcoin take over the world maybe who knows perhaps"));
@@ -30,4 +31,5 @@ public class ShortestWord {
       return length;
    }
 }
+
 ```
