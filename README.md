@@ -13,3 +13,9 @@ This repository contains my solutions to various coding challenges. The solution
 - [Sum of positive](https://github.com/eflatto/coding_challenges/blob/main/src/codingchallenges/Positive.java)
 
 - [Shortest word](https://github.com/eflatto/coding_challenges/blob/main/src/codingchallenges/ShortestWord.java)
+
+- [Reverse a String](https://github.com/eflatto/coding_challenges/blob/main/src/codingchallenges/RemoveStringSpaces.java)
+
+- [XO](https://github.com/eflatto/coding_challenges/blob/main/src/codingchallenges/XO.java)
+
+- [Remove Spaces](https://github.com/eflatto/coding_challenges/blob/main/src/codingchallenges/RemoveStringSpaces.java)
