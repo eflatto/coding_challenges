@@ -1,0 +1,18 @@
+package codingchallenges;
+class TwoSum {
+    private int [] answers = new int[2]; // create an array of size 2 to store the answers
+    public int[] twoSum(int[] nums, int target) { // method that takes in an array of integers and a target value
+        
+        for(int i = 0;i<nums.length;i++){ // loop through each element in the array
+            
+            for(int j =i+1;j<nums.length;j++){ // loop through each element starting from i+1 (avoiding duplicates)
+                if(nums[i]+nums[j]==target){ // check if the sum of two elements equals the target value
+                    answers[0]=i; // store the indices of the two elements in the answers array
+                    answers[1]=j;
+                    return answers; // return the answers array
+                }
+             }  
+           }
+        return answers; 
+    }
+}
