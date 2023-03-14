@@ -19,3 +19,7 @@ This repository contains my solutions to various coding challenges. The solution
 - [XO](https://github.com/eflatto/coding_challenges/blob/main/src/codingchallenges/XO.java)
 
 - [Remove Spaces](https://github.com/eflatto/coding_challenges/blob/main/src/codingchallenges/RemoveStringSpaces.java)
+
+## CodeWars
+- [Two Sum](https://github.com/eflatto/coding_challenges/blob/main/src/codingchallenges/TwoSum.java)
+
